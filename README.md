@@ -1,6 +1,7 @@
 BANKIST simulator of a banking APP
 
 There are 4 persons that yoo can choose to log in or transfer money to:
+
 1)
 Jan Szczerba
 login: js
