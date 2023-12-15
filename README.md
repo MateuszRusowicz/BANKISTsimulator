@@ -28,3 +28,9 @@ you may:
 QUIZ:
 can you quesss what is the conditions set for requesting loans? 
 the answer you can find in the Js code ofcourse ;)
+
+UPDATE:
+-added live calculated Dates
+-adden Internalization of dates formats (try changing account!)
+-added timer for the loan
+-added global timer for inactive user's logout
